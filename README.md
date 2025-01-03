@@ -1,2 +1,7 @@
 # WebDev-portfolio
-This is a kind of my WebDew portfolio.
+
+Hi! My name is Oleg Orlovskiy. This is my WebDew portfolio.
+
+---
+
+It may be a little outdated.
