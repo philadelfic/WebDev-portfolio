@@ -1,0 +1,17 @@
+html {
+    background-color: black;
+    font-size: 2rem;
+}
+
+@font-face {
+    font-family: Libre Baskerville Font;
+    src: url(https://fonts.google.com/specimen/Libre+Baskerville);
+}
+
+div {
+    margin: 80px 10px;
+    font-family: Libre Baskerville Font;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
